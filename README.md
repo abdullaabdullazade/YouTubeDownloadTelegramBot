@@ -14,7 +14,6 @@ Bu layihə YouTube videolarını MP3 və ya MP4 formatında yükləməyə imkan 
     ```bash
     npm init
     npm install dotenv@^16.4.5 express@^4.19.2 ffmpeg-static@^5.2.0 fluent-ffmpeg@^2.1.3 mongoose@^8.4.4 node-telegram-bot-api@^0.66.0 nodemon@^3.1.4  ytdl-core@^4.11.5
-    npm install
     ```
 
 3. `.env` faylı yaradın və aşağıdakıları əlavə edin:
@@ -28,8 +27,6 @@ Bu layihə YouTube videolarını MP3 və ya MP4 formatında yükləməyə imkan 
 
 1. Serveri başladın:
     ```bash
-    npm init
-    npm install dotenv@^16.4.5 express@^4.19.2 ffmpeg-static@^5.2.0 fluent-ffmpeg@^2.1.3 mongoose@^8.4.4 node-telegram-bot-api@^0.66.0 nodemon@^3.1.4  ytdl-core@^4.11.5
     npm start
     ```
 
@@ -58,6 +55,7 @@ This project is a Telegram bot that allows you to download YouTube videos in MP3
 2. Install the required packages:
     ```bash
     npm init
+    npm install dotenv@^16.4.5 express@^4.19.2 ffmpeg-static@^5.2.0 fluent-ffmpeg@^2.1.3 mongoose@^8.4.4 node-telegram-bot-api@^0.66.0 nodemon@^3.1.4  ytdl-core@^4.11.5
     npm install
     ```
 
@@ -72,7 +70,7 @@ This project is a Telegram bot that allows you to download YouTube videos in MP3
 
 1. Start the server:
     ```bash
-    npm init
+   
     npm start
     ```
 
