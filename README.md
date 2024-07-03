@@ -12,6 +12,8 @@ Bu layihə YouTube videolarını MP3 və ya MP4 formatında yükləməyə imkan 
 
 2. Lazım olan paketləri quraşdırın:
     ```bash
+    npm init
+    npm install dotenv@^16.4.5 express@^4.19.2 ffmpeg-static@^5.2.0 fluent-ffmpeg@^2.1.3 mongoose@^8.4.4 node-telegram-bot-api@^0.66.0 nodemon@^3.1.4  ytdl-core@^4.11.5
     npm install
     ```
 
@@ -26,6 +28,8 @@ Bu layihə YouTube videolarını MP3 və ya MP4 formatında yükləməyə imkan 
 
 1. Serveri başladın:
     ```bash
+    npm init
+    npm install dotenv@^16.4.5 express@^4.19.2 ffmpeg-static@^5.2.0 fluent-ffmpeg@^2.1.3 mongoose@^8.4.4 node-telegram-bot-api@^0.66.0 nodemon@^3.1.4  ytdl-core@^4.11.5
     npm start
     ```
 
