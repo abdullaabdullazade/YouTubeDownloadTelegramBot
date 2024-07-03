@@ -53,6 +53,7 @@ This project is a Telegram bot that allows you to download YouTube videos in MP3
 
 2. Install the required packages:
     ```bash
+    npm init
     npm install
     ```
 
@@ -67,6 +68,7 @@ This project is a Telegram bot that allows you to download YouTube videos in MP3
 
 1. Start the server:
     ```bash
+    npm init
     npm start
     ```
 
